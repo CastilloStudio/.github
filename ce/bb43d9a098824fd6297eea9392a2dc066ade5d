@@ -1,0 +1,19 @@
+profile/README.md
+  s_76752720f2a6e6::t_819cb13a1b8aab 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cebb43d9a098824fd6297eea9392a2dc066ade5d",
+  "prompts": {},
+  "sessions": {
+    "s_76752720f2a6e6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3840c780-4257-4f76-9c3d-5723f8569033",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Emilio <emiliojcg@ext.massimodutti.com>"
+    }
+  }
+}
