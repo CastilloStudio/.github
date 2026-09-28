@@ -1,0 +1,19 @@
+profile/README.md
+  s_cc172cccb57c3d::t_a62e055c4da28e 40-46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "42fbacc90a9ef3e93b3947b334727dcbc773b90d",
+  "prompts": {},
+  "sessions": {
+    "s_cc172cccb57c3d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c29005fc-7971-4ede-984b-bcaf9e448567",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Emilio <emiliocastillogonzalez@gmail.com>"
+    }
+  }
+}
