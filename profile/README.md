@@ -37,6 +37,13 @@ cifrada automática, instalador y actualización en un clic.
 `.NET 10` · `Windows` · `Google Calendar API` · `Velopack`
 → [Descargas e instaladores](https://github.com/CastilloStudio/bitacora-descargas/releases)
 
+**[Trastienda](https://castillostudio.es/casos/trastienda)** — Base de comercio
+electrónico sobre la que se monta la tienda de cada cliente, preparada para
+vender en España: IVA con sus tres tipos, textos legales, desistimiento en línea
+y correos transaccionales, en castellano. Cada tienda es una copia propia, con
+su aspecto y los datos del titular en un único fichero.
+`Medusa v2` · `Next.js` · `PostgreSQL` · `Stripe` · `Playwright`
+
 ## Cómo trabajamos
 
 Entender el problema y cerrar presupuesto · Prototipo que se pueda tocar en
